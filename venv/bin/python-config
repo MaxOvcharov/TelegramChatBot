@@ -1,4 +1,4 @@
-#!/home/max/bot_project/TelegramBot/venv/bin/python
+#!/home/max/bot_project/TelegramChatBot/venv/bin/python
 
 import sys
 import getopt

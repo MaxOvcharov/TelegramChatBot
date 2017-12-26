@@ -1,4 +1,4 @@
-#!/home/max/bot_project/TelegramBot/venv/bin/python3.5
+#!/home/max/bot_project/TelegramChatBot/venv/bin/python2.7
 
 # -*- coding: utf-8 -*-
 import re
